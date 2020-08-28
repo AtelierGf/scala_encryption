@@ -7,4 +7,4 @@ You can use
 
 - Secret Sharing
 - RSA
-- Eliptic Curve Elgamal
+- Elliptic Curve Elgamal
